@@ -1,0 +1,17 @@
+{
+  "name": "6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lab6.js",
+  "scripts": {
+    "start": "node lab6.js"
+  },
+  "keywords": [],
+  "author": "Dmytro Kuts",
+  "license": "ISC",
+  "dependencies": {
+    "download_image": "file:get-file",
+    "string": "^3.3.3",
+    "validator": "^13.7.0"
+  }
+}
